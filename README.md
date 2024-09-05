@@ -14,13 +14,7 @@ Jetbrains Gateway(2024.2)<br>
 - <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat-square&logo=obsidian"/> for note taking and publishing
 <br><br>
 # Languages / Tech Stacks
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node Red-8F0000?style=flat-sqaure&logo=node-red&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-sqaure&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-sqaure&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-sqaure&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-sqaure&logo=cplusplus&logoColor=white"/>
-, etc.....
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Node Red-8F0000?style=flat-sqaure&logo=node-red&logoColor=white"/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-sqaure&logo=framer&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-sqaure&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=flat-sqaure&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++-00599C?style=flat-sqaure&logo=cplusplus&logoColor=white"/>,    etc.....
 
 
 <br><br>
