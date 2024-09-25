@@ -32,7 +32,7 @@ Jetbrains Gateway(2024.2)<br>
 |Storage|SSD : Samsung 990 evo 1tb * 1, ADATA XPG SX8100 1tb * 2 <br>HDD : Seagate IronWolf 4TB * 2|
 |Case|3RSYS L904 Quiet|
 |Case Fans|3RSYS Silence SE 120 * 6|
-|OS|Host : Proxmox VE 8.1 <br> Guest : Windows 11 pro, Ubuntu server 22.04 LTS, CentOS Stream 9 <br> ~~Windows 11 pro /w WSL2 & Hyper-V~~|
+|OS|Host : Proxmox VE 8.2 <br> Guest : Windows 11 pro, Ubuntu 22.04 LTS, CentOS Stream 9 <br> ~~Windows 11 pro /w WSL2 & Hyper-V~~|
 
 
 - MacBook Air (M1, 16GB RAM) to remotely access my main computer.
