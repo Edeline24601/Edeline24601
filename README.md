@@ -35,9 +35,7 @@ Jetbrains Gateway(2024.2)<br>
 |OS|Host : Proxmox VE 8.2 <br> Guest : Windows 11 pro, Ubuntu 22.04 LTS, CentOS Stream 9 <br> ~~Windows 11 pro /w WSL2 & Hyper-V~~|
 
 
-- MacBook Air (M1, 16GB RAM) to remotely access my main computer.
-- ~~Thinkapd T14 Gen4 AMD (7840U, 32GB RAM, 2070S eGPU) for tinkering with stuffs~~ <br>
-- ~~Khadas Mind dual booting Windows & Ubuntu (<https://www.khadas.com/mind>).~~ <br>~~(Intel 13th gen Instability issue, not related to desktop ones)~~
+- MacBook Air (M1, 16GB RAM), Thinkapd T14 Gen4 AMD (7840U, 32GB RAM) to remotely access my main computer.
 
 ## Feel Free to ask me about Hardware, Proxmox & Stuffs!
 -  <img src="https://img.shields.io/badge/gmail-white?style=flat-sqaure&logo=gmail"/> : on my Github Profile
