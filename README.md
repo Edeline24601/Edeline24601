@@ -28,8 +28,8 @@ Jetbrains Gateway(2024.2)<br>
 |CPU Cooler|Noctua NH-D15 w/ Thermalright AM5 contact frame|
 |Motherboard|ASUS TUF Gaming X670E-plus (Only Specific boards support IOMMU)|
 |RAM|TeamGroup T-Create Classic, 64GB(32GB * 2), DDR5-6400 (6000 stock EXPO, 6400 Manual OC)
-|GPU|emTek HV GeForce RTX 3090 Black Monster OC D6X 24GB <br> (GPU Passthrough for CUDA Toolkits & AAA gaming)| 
-|Storage|SSD : Samsung 990 evo 1tb * 1, ADATA XPG SX8100 1tb * 2 <br>HDD : Seagate IronWolf 4TB * 2|
+|GPU|GIGABYTE GeForce RTX 4090 GAMING OC D6X 24GB <br> (GPU Passthrough for CUDA Toolkits & AAA gaming)| 
+|Storage|SSD : ADATA XPG SX8100 1tb * 2 <br>HDD : Seagate IronWolf 4TB * 2|
 |Case|3RSYS L904 Quiet|
 |Case Fans|3RSYS Silence SE 120 * 6|
 |OS|Host : Proxmox VE 8.2 <br> Guest : Windows 11 pro, Ubuntu 22.04 LTS, CentOS Stream 9 <br> ~~Windows 11 pro /w WSL2 & Hyper-V~~|
