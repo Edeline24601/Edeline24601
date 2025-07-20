@@ -26,7 +26,7 @@ G. J Choi's Github
 |CPU Cooler|Noctua NH-D15 => ARCTIC Liquid Freezer III 360  w/ Thermalright AM5 contact frame|
 |Motherboard|ASUS TUF Gaming X670E-plus (Only Specific boards support IOMMU)|
 |RAM|TeamGroup T-Create Classic, 64GB(32GB * 2), DDR5-6400 (6000 stock EXPO, 6400 Manual OC)
-|GPU|GIGABYTE GeForce RTX 4090 GAMING OC D6X 24GB <br> (GPU Passthrough for CUDA Toolkits & AAA gaming)| 
+|GPU|GIGABYTE GeForce RTX 4090 GAMING OC D6X 24GB (for LLM VM) <br> Intel ARC A770 Limited Edition D6 16GB(for gaming VM)| 
 |Storage|SSD : ADATA XPG SX8100 1tb * 2 <br>|
 |Case|3RSYS L904 Quiet|
 |Case Fans|3RSYS Silence SE 120 * 6|
